@@ -172,22 +172,6 @@ research_interest = [
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogapratama55&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogapratama55&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogapratama55)
-
----
-
-## 🏆 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yogapratama55&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🎓 Certifications & Awards
 
 - IBM SkillsBuild
