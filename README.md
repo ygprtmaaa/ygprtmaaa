@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Yoga Pratama</h1>
 
 <h3 align="center">
