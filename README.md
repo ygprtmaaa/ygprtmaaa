@@ -110,8 +110,8 @@ Machine Learning Classification using Sentinel-2 imagery.
 
 Predictive Land Cover Change Modeling using:
 
-- Cellular Automata
-- Artificial Neural Network
+- Cellular Automata (CA)
+- Artificial Neural Network (ANN)
 - Multi Criteria Evaluation
 - Suitability Analysis
 
